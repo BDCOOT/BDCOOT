@@ -1,6 +1,5 @@
-## Hi there 👋
 
-<h2 style="color:violet"> WELCOME TO BDCOOT GITHUB </h2>
+![header](https://capsule-render.vercel.app/api?text=BDCOOT_GITHUB&animation=fadeIn)
 
 ## 프로필
 
