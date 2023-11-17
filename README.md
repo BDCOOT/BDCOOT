@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=BDCOOT%20GITHUB&fontAlign=70&stroke=00FF00&strokeWidth=3)
+![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=BDCOOT%20GITHUB%300&fontAlign=70&stroke=00FF00&strokeWidth=3)
 
 
 ## 프로필
