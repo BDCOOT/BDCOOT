@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# <span style="color:violet"> WELCOME TO BDCOOT GITHUB </span>
+# <font color='dodgerblue'>WELCOME TO BDCOOT GITHUB </font>
 
 ## 프로필
 
