@@ -1,7 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-
-# 마크다운을 이용한 자기소개
+# <span style="color:violet"> WELCOME TO BDCOOT GITHUB </span>
 
 ## 프로필
 
@@ -28,5 +27,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
