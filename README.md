@@ -12,7 +12,9 @@
 
 Java, SpringBoot, MyBatis, JPA, Gradle, Maven, MySql, MariaDB, Jwt, Bcrypt 
 
+## My_Notion
 
+https://www.notion.so/589f90db0f5c4904a2739fb4d44ab702
 
 
 <!--
