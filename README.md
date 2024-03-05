@@ -10,7 +10,7 @@
 
 ## 기술 스택
 
-
+Java, SpringBoot, MyBatis, JPA, Gradle, Maven, MySql, MariaDB, Jwt, Bcrypt 
 
 
 
