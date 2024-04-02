@@ -20,6 +20,8 @@ Java, SpringBoot, MyBatis, JPA, MySql, MariaDB, AWS, Docker, Jwt, Bcrypt,  Gradl
 
 <a href="https://material-laborer-bf1.notion.site/589f90db0f5c4904a2739fb4d44ab702?pvs=4" target="_blank"><img src="https://img.shields.io/badge/#000000-000000?style=for-the-badge&logo=000000&logoColor=f7faf9"/></a>
 
+<a href="https://material-laborer-bf1.notion.site/589f90db0f5c4904a2739fb4d44ab702?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=FFFFFF"/></a>
+
 
 
 <!--
