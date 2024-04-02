@@ -8,6 +8,9 @@
 - 취미 : 코딩, 요리, 게임
 - MBTI : INTP
 
+멋쟁이사자처럼 백엔드 스쿨 8기 
+2023.11.16 ~ 2024.05.03 (수료 예정)
+
 ## 기술 스택
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 
