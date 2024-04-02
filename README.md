@@ -6,7 +6,7 @@
 - 이름 : 이윤배
 - 이메일 : peterpun13@gmail.com
 - 취미 : 코딩, 요리, 게임
-
+- MBTI : INTP
 
 ## 기술 스택
 
