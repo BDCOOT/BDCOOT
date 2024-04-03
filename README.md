@@ -14,7 +14,7 @@
 ## 기술 스택
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 
-<img src="https://img.shields.io/badge/SpringBoot-#6DB33F?style=for-the-badge&logo=Spirng Boot&logoColor=white">
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpirngBoot&logoColor=white">
 
 Java, SpringBoot, MyBatis, JPA, MySql, MariaDB, AWS, Docker, Jwt, Bcrypt,  Gradle, Maven
 
