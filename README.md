@@ -27,7 +27,7 @@
 ## My_Notion
 
 
-<a href="[https://material-laborer-bf1.notion.site/589f90db0f5c4904a2739fb4d44ab702?pvs=4](https://www.notion.so/589f90db0f5c4904a2739fb4d44ab702?pvs=4)" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=FFFFFF"/></a>
+<a href="https://www.notion.so/589f90db0f5c4904a2739fb4d44ab702?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=FFFFFF"/></a>
 
 
 
