@@ -28,6 +28,7 @@
 
 
 <a href="https://www.notion.so/589f90db0f5c4904a2739fb4d44ab702?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=FFFFFF"/></a>
+<a href="https://www.notion.so/17a67e5a5ac2471797d4e8b5d2a74390" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=FFFFFF"/></a>
 
 
 
